@@ -18,7 +18,7 @@ sayac = 0
 for i in liste:
     with open(i, "rb") as pdf_file:
         
-        if not sys.warnoptions: #warning uyarısı prevented
+        if not sys.warnoptions: #warning prevented
             import warnings
             warnings.simplefilter("ignore")
             
