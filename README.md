@@ -1,2 +1,2 @@
 # practical_trials
-a junior's codes
+All of codes can be used for little aims.
